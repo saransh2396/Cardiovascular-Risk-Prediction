@@ -25,7 +25,7 @@ Our goal here is to build a predictive model, which could help the hospitals in 
 
 
 # Presentation
-[Here is the Presentation]()
+[Here is the Presentation](https://github.com/saransh2396/Cardiovascular-Risk-Prediction/blob/main/TenYearCHD.pdf)
 
 # Summary
 1)	The Support vector machine is the best performing model in terms of accuracy and the F1 score and Its high AUC-score shows that it has a high true positive rate.
