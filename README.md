@@ -23,6 +23,10 @@ The	TenCHD	is	predicted	using	the following Independent Variables:
 •	TenCHD: 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) - DV
 Our goal here is to build a predictive model, which could help the hospitals in predicting Chronic Heart Disease proactively.
 
+
+# Presentation
+[Here is the Presentation]()
+
 # Summary
 1)	The Support vector machine is the best performing model in terms of accuracy and the F1 score and Its high AUC-score shows that it has a high true positive rate.
 2)	Balancing the dataset by using the SMOTE technique helped in improving the models' sensitivity.
