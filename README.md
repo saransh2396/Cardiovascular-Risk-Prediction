@@ -24,10 +24,9 @@ The	TenCHD	is	predicted	using	the following Independent Variables:
 Our goal here is to build a predictive model, which could help the hospitals in predicting Chronic Heart Disease proactively.
 
 # Summary
-●	The Support vector machine is the best performing model in terms of accuracy and the F1 score and Its high AUC-score shows that it has a high true positive rate.
-●	Balancing the dataset by using the SMOTE technique helped in improving the models' sensitivity.
-●	With more data(especially that of the minority class) better models can be built.
-
+1)	The Support vector machine is the best performing model in terms of accuracy and the F1 score and Its high AUC-score shows that it has a high true positive rate.
+2)	Balancing the dataset by using the SMOTE technique helped in improving the models' sensitivity.
+3)	With more data(especially that of the minority class) better models can be built.
 
 
 
